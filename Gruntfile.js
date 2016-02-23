@@ -6,7 +6,7 @@ module.exports = function(grunt) {
 			options: {
 				base: 'src/slides'
 			},
-			src: ['**/*']
+			src: ['**']
 		}
 	});
 
