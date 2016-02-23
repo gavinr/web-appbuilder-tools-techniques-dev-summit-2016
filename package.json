@@ -1,0 +1,29 @@
+{
+  "name": "web-appbuilder-tools-techniques-dev-summit-2016",
+  "version": "1.0.0",
+  "description": "Dev Summit 2016 Presentation \"Web AppBuilder for ArcGIS: Development tools and Techniques\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2016.git"
+  },
+  "keywords": [
+    "web",
+    "appbuilder",
+    "devsummit"
+  ],
+  "author": "Gavin Rehkemper and Tom Wayson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2016/issues"
+  },
+  "homepage": "https://github.com/gavinr/web-appbuilder-tools-techniques-dev-summit-2016#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-gh-pages": "^1.0.0"
+  },
+  "dependencies": {}
+}
