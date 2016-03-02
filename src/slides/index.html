@@ -21,6 +21,9 @@
     <!-- Code syntax highlighting -->
     <link rel="stylesheet" href="reveal.js/lib/css/solarized_dark.css">
 
+    <!-- for icons -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
     <!-- Printing and PDF exports -->
     <script>
       var createLink = function(url) {
@@ -48,9 +51,12 @@
 
     <div class="reveal">
 
-      <!-- Any section element inside of this container is displayed as a slide -->
+      <!-- The backgrounds on each of these "sections" is the default background for that section -
+      you can override it on a slide by slide basis from within the MD. -->
+      <!-- note for vertical stacks,  data-separator="^----$" data-separator-vertical="^---$" -->
       <div class="slides">
         <section data-markdown="intro.md" data-background="reveal.js/img/title.png" ></section>
+        <section data-markdown="about-us.md" data-background="reveal.js/img/bg-1.png" ></section>
         <section data-markdown="what-is-web-appbuilder.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
         <section data-markdown="development-tools-and-patterns.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
         <section data-markdown="do-i-need-these-tools.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
@@ -58,9 +64,9 @@
         <section data-markdown="pattern-writing-widgets.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
         <section data-markdown="pattern-widget-wrap.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
         <section data-markdown="pattern-testing.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
+        <section data-markdown="thank-you.md" data-background="reveal.js/img/bg-4.png" ></section>
         <section data-markdown="end.md" data-background="reveal.js/img/end.png" ></section>
       </div>
-      <!-- note for vertical stacks,  data-separator="^----$" data-separator-vertical="^---$" -->
     </div>
 
     <script src="reveal.js/lib/js/head.min.js"></script>
