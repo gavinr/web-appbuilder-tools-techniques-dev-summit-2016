@@ -2,3 +2,6 @@
 ### Pattern:
 # Do Not Write Widgets from Scratch
 
+---
+
+## Demo: Widget Sub Generator
