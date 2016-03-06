@@ -4,11 +4,15 @@
 
 ---
 
-## WAB Dev Edition Folder Structure
+## Web AppBuilder Folder Structure
+
+Todo: screenshot or diagram?
 
 ---
 
 ## Only Keep YOUR Code in Source Control
+
+Todo: screenshot. image, or diagram?
 
 ---
 
