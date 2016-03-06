@@ -6,5 +6,5 @@
   - ArcScripts Search
 - Documentation, Download, and Support:
 
-[developers.arcgis.com](https://developers.arcgis.com/web-appbuilder/)
+[developers.arcgis.com/web-appbuilder](https://developers.arcgis.com/web-appbuilder/)
 

@@ -6,14 +6,16 @@
 
 ## Web AppBuilder Folder Structure
 
-Todo: screenshot or diagram?
+Note: jump into quick demo of folder structure
 
 ---
 
+<!-- .slide: data-background="reveal.js/img/bg-6.png" -->
 ## Only Keep YOUR Code in Source Control
 
-Todo: screenshot. image, or diagram?
+![MY source control](img/mine.gif)
 
 ---
 
+<!-- .slide: data-background="reveal.js/img/bg-6.png" -->
 ## Demo: App Generator
