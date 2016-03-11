@@ -7,7 +7,7 @@
 
 ---
 
-## Tools are better
+## Tools have improved
 
 ---
 
@@ -20,3 +20,8 @@
 	<li class="fragment">Run and test your code outside the WAB</li>
 
 </ol>
+
+---
+
+<!-- .slide: data-background="img/yo-grunt-babel.png" data-background-size="920px" data-background-color="#fff" -->
+#### Tools: [Yeoman](http://yeoman.io/) - [Grunt](http://gruntjs.com/) - [Babel](https://babeljs.io/)
