@@ -4,7 +4,13 @@
 ---
 
 <!-- .slide: data-background="img/wab-builder.png" -->
+#### Builder experience is powerful
+
+---
+
+<!-- .slide: data-background="img/wab-builder.png" -->
 #### WSIWG builder adds complexity
+
 
 ---
 
