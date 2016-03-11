@@ -1,0 +1,30 @@
+
+<!-- Widget.html -->
+  <div data-dojo-attach-point="subwidgetNode"></div>
+
+// Widget.js
+define(['dojo/_base/declare', 'jimu/BaseWidget', './SubWidget'],
+function(declare, BaseWidget, SubWidget) {
+  //To create a widget, you need to derive from BaseWidget.
+  return declare([BaseWidget], {
+
+    // Custom widget code goes here
+
+    baseClass: 'es5',
+    // this property is set by the framework when widget is loaded.
+    // name: 'ES5',
+    // add additional properties here
+
+    //methods to communication with app container:
+    postCreate: function() {
+      this.inherited(arguments);
+      this.subWidget = new SubWidget({}, this.subwidgetNode);
+    },
+
+    startup: function() {
+      this.inherited(arguments);
+      this.subWidget.startup();
+    },
+
+Test page
+http://localhost/test/yo-wab-2d/widgets/ES5/tests/SubWidgetTest.html
