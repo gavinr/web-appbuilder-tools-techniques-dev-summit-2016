@@ -20,17 +20,17 @@
 ---
 
 <!-- .slide: data-background="img/scaffold-2520054449_b8d243d857_z.jpg" -->
-#### Generators scaffold out boilerplate code
+#### Generators automate this extra work for us
+
+---
+
+<!-- .slide: data-background="img/scaffold-2520054449_b8d243d857_z.jpg" -->
+#### Scaffold out boilerplate code
 
 ---
 
 <!-- .slide: data-background="img/scaffold-2520054449_b8d243d857_z.jpg" -->
 #### Install / configure tools to automate tasks
-
----
-
-<!-- .slide: data-background="img/scaffold-2520054449_b8d243d857_z.jpg" -->
-#### This is work we don't want to do
 
 ---
 
@@ -66,3 +66,12 @@
 
 <!-- .slide: data-background="img/wab-generator-sceenshot.png" data-background-size="634px" data-background-color="#000" -->
 #### Subgenerator to scaffold out widget files
+
+---
+
+<!-- .slide: data-background="reveal.js/img/bg-3.png" -->
+### Still not sold on generators?
+
+<img src="img/issue-screenshot.png" />
+
+[Leave your feedback](https://github.com/Esri/generator-esri-appbuilder-js/issues/63)
