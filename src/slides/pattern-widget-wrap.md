@@ -26,6 +26,18 @@ Create sub widget(s) for your business logic / workflows
 ---
 
 <!-- .slide: data-background="reveal.js/img/bg-5.png" -->
+<img src="img/drs-tabs-screenshot.png" />
+
+Sub widgets go *inside* container widgets (tabs, etc) 
+
+---
+
+<!-- .slide: data-background="reveal.js/img/bg-6.png" -->
+## Demo: Sub Widget
+
+---
+
+<!-- .slide: data-background="reveal.js/img/bg-5.png" -->
 ### Advantages of Wrap Star Lifestyle
 
 <ul>
@@ -38,3 +50,4 @@ Create sub widget(s) for your business logic / workflows
 	<li class="fragment">Widgets can be used
 	<br/> outside the Web AppBuilder</li>
 </ul>
+
