@@ -12,3 +12,9 @@ This session picks up where the Customizing and Extending Web AppBuilder session
 
 ## 2015 Talk
 This talk will address some of the same concepts as last year, but tactically build and expand on those ideas! Last years slides are at [tomwayson/web-appbuilder-tools-techniques-dev-summit-2015](https://github.com/tomwayson/web-appbuilder-tools-techniques-dev-summit-2015).
+
+## WebAppbuilder Resources
+ * Generator: https://github.com/Esri/generator-esri-appbuilder-js
+ * [developers.arcgis.com/web-appbuilder](https://developers.arcgis.com/web-appbuilder/)
+ * Geonet: [Web AppBuilder Custom Widgets Group](https://geonet.esri.com/groups/web-app-builder-custom-widgets)
+ * [WAB Widget Search](http://gavinr.github.io/wab-widget-search)
