@@ -28,7 +28,25 @@
     <style>
       .reveal section img {
         border: 0px;
+        background: none;
+        box-shadow: none;
       }
+
+      /* overlay header */
+      .reveal h4 {
+          background: rgba(0,0,0,.5);
+          color:  #fff;
+          position: fixed;
+          width: calc(100% + 150px);
+          left: 0;
+          top: 280px;
+          margin-left: -75px;
+          margin-top: 0;
+          margin-bottom: 0;
+          font-size: 1.6em;
+          line-height: 1.8em;
+      }
+
     </style>
 
     <!-- Printing and PDF exports -->
@@ -71,6 +89,7 @@
         <section data-markdown="pattern-writing-widgets.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
         <section data-markdown="pattern-widget-wrap.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
         <section data-markdown="pattern-testing.md" data-background="reveal.js/img/bg-3.png" data-separator-notes="^Note:"></section>
+        <section data-markdown="future-features.md" data-background="reveal.js/img/bg-5.png" data-separator-notes="^Note:"></section>
         <section data-markdown="resources.md" data-background="reveal.js/img/bg-5.png" ></section>
         <section data-markdown="thank-you.md" data-background="reveal.js/img/bg-1.png" ></section>
         <section data-markdown="end.md" data-background="reveal.js/img/end.png" ></section>
