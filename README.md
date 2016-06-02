@@ -8,7 +8,7 @@ This session picks up where the Customizing and Extending Web AppBuilder session
 ## Useful links
  * Schedule: [3/11/2015, 8:30 AM, Smoketree Room](https://devsummit.schedule.esri.com/#schedule/56b2875d4be5dd46a3000365/56b2875d4be5dd46a3000366) and [3/11/2015, 1:00 PM, Smoketree Room](https://devsummit.schedule.esri.com/#schedule/56b2875d4be5dd46a3000365/56b3db004be5dd8f3401454b)
  * Slides: http://gavinr.github.io/web-appbuilder-tools-techniques-dev-summit-2016
- * Video: (posted after Dev Summit)
+ * Video: http://video.esri.com/watch/5049/web-appbuilder-for-arcgis-development-tools-and-techniques
 
 ## 2015 Talk
 This talk will address some of the same concepts as last year, but tactically build and expand on those ideas! Last years slides are at [tomwayson/web-appbuilder-tools-techniques-dev-summit-2015](https://github.com/tomwayson/web-appbuilder-tools-techniques-dev-summit-2015).
